@@ -17,3 +17,5 @@ switch branch
 merge branch
 
 > git merge "branch-name"
+
+- MAIN CONFLICT TEST
