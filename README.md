@@ -13,3 +13,7 @@ create new branch
 switch branch
 
 > git checkout "branch-name"
+
+merge branch
+
+> git merge "branch-name"
